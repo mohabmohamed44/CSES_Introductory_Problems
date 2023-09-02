@@ -66,18 +66,10 @@ void runFile()
 #endif
 }
 
-//void solve()
-// {
-//     int n;
-//     cin >> n;
-//     int ans = 1;
-//     for (int i = 0; i < n; i++)
-//     {
-//         ans *= 2;
-//         ans %= MOD;
-//     }
-//     cout << ans;
-// }
+void solve()
+{
+    
+}
 
 int main()
 {
