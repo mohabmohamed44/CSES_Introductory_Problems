@@ -8,7 +8,7 @@ This repository contains solutions to the introductory problems from the CSES pr
 
 ## Introduction
 
-In this repository, you will find solutions to the introductory problems from the CSES problem set. Each problem is solved using various algorithms and data structures. The solutions are implemented in [CPP], and they are organized into separate directories based on the problem name.
+In this repository, you will find solutions to the introductory problems from the CSES problem set. Each problem is solved using various algorithms and data structures. The solutions are implemented in [CPP], and they are organized into numbered files based on the problem name.
 
 ## Installation
 
@@ -24,4 +24,4 @@ To use the solutions in this repository, you need to have [CPP or Python 3 or Ja
 
 ## Contributing
 
-Contributions to this repository are welcome. If you have a better solution or want to add a new problem, feel free to submit a pull request. Please make sure to follow the established coding style and provide clear and detailed commit messages.
+Contributions to this repository are welcome. Feel free to submit a pull request if you have a better solution or want to add a new problem. Please follow the established coding style and provide clear and detailed commit messages.
