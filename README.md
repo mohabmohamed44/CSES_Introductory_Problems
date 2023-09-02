@@ -4,7 +4,7 @@ This repository contains solutions to the introductory problems from the CSES pr
 
 ## Table of Contents
 
-- [Introductory Problems](#https://cses.fi/problemset/list/)
+- [CSES problem set](https://cses.fi/problemset/)
 
 ## Introduction
 
